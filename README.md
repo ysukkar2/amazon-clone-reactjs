@@ -1,16 +1,22 @@
-HEAD
-# amazon-clone-reactjs
+# 🛒 Amazon Clone
 
-# React + Vite
+This Amazon clone is built with:
+- ⚛️ React.js (with Vite)
+- 🎨 CSS
+- 🗃️ Redux
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+---
 
-Currently, two official plugins are available:
+## 🖼️ Screenshots
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+### 🧾 Homepage
+![Homepage](assets/image1.png)
 
-## Expanding the ESLint configuration
+### 🛍️ Product Page
+![Product Page](assets/image2.png)
 
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
-4b8aa67 (c)
+### 🧺 Cart Page
+![Cart Page](assets/image3.png)
+
+### ✅ Checkout Page
+![Checkout Page](assets/image4.png)
