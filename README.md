@@ -20,3 +20,7 @@ This Amazon clone is built with:
 
 ### ✅ Checkout Page
 ![Checkout Page](assets/image4.png)
+
+![](assets/image5.png)
+
+![](assets/image6.png)
